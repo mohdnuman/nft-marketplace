@@ -15,7 +15,6 @@ module.exports = {
     },
     mumbai:{
       url:"https://polygon-mumbai.infura.io/v3/a54e26e2de3c42f19eb6b90ef02e05f9",
-      accounts:privateKey
     },
     mainnet:{
       url:"https://polygon-mainnet.infura.io/v3/a54e26e2de3c42f19eb6b90ef02e05f9",
